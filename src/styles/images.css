@@ -1,0 +1,194 @@
+.cover-image, 
+.map-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.7);
+  border: 2px solid var(--color-primary);
+  animation: zoomFade 1s ease forwards;
+  opacity: 0;
+}
+
+.region-logo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); /* responsive */
+  gap: 20px;
+  margin-top: 2rem;
+  width: 100%;
+}
+
+
+.logo-card {
+  background-color: var(--color-dark);
+  border: 1px solid var(--color-secondary);
+  border-radius: 10px;
+  padding: 15px;
+  cursor: pointer;
+  text-align: center;
+  transition: all 0.3s ease;
+  opacity: 0;
+  animation: fadeInUp 0.8s ease forwards;
+}
+
+.logo-card:hover {
+  background: linear-gradient(145deg, rgba(242,159,88,0.2), rgba(171,68,89,0.2));
+  box-shadow: 0 0 20px rgba(242,159,88,0.6);
+}
+
+.region-logo {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  display: block;
+  margin: 0 auto;
+}
+
+.logo-card h2 {
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  word-wrap: break-word;
+}
+
+/* Container logo */
+.region-logo-container {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr); /* default mobile: 1 kolom */
+  gap: 20px; /* jarak antar logo */
+  justify-items: center; /* center logo di cell */
+  align-items: center;
+  padding: 10px;
+}
+
+/* Grid untuk PC / layar lebih besar */
+@media (min-width: 1024px) {
+  .region-logo-container {
+    grid-template-columns: repeat(4, 1fr); /* 4 kolom di desktop */
+  }
+}
+
+/* Styling logo */
+.region-logo-container img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+  transition: transform 0.3s ease;
+}
+
+.region-logo-container img:hover {
+  transform: scale(1.05);
+}
+
+
+/* Delay animasi */
+.logo-card:nth-child(1) { animation-delay: 0.5s; }
+.logo-card:nth-child(2) { animation-delay: 1s; }
+.logo-card:nth-child(3) { animation-delay: 1.5s; }
+.logo-card:nth-child(4) { animation-delay: 2s; }
+.logo-card:nth-child(5) { animation-delay: 2.5s; }
+.logo-card:nth-child(6) { animation-delay: 3s; }
+.logo-card:nth-child(7) { animation-delay: 3.5s; }
+.logo-card:nth-child(8) { animation-delay: 4s; }
+
+/* === Cover & Map Images === */
+/* === Cover Image (Home) === */
+.cover-image {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  max-height: 500px;     /* batasi tinggi cover supaya tidak terlalu panjang */
+  object-fit: contain;   /* tetap proporsional */
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.7);
+  border: 2px solid var(--color-primary);
+  animation: zoomFade 1s ease forwards;
+  opacity: 0;
+}
+
+/* === Map Image (World) === */
+.map-image {
+  width: 100%;
+  max-width: 100%;       /* isi penuh container */
+  height: auto;          /* biar rasio asli terjaga */
+  object-fit: cover;     /* tampil natural tanpa kosong */
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.7);
+  border: 2px solid var(--color-primary);
+  animation: zoomFade 1s ease forwards;
+  opacity: 0;
+}
+
+
+/* === Responsive untuk layar lebih kecil === */
+@media (max-width: 1024px) {
+  .cover-image,
+  .map-image {
+    max-height: 400px; /* tablet */
+  }
+}
+
+@media (max-width: 768px) {
+  .cover-image,
+  .map-image {
+    max-height: 300px; /* hp landscape */
+  }
+}
+
+@media (max-width: 480px) {
+  .cover-image,
+  .map-image {
+    max-height: 250px; /* hp portrait */
+  }
+}
+@media (max-width: 768px) {
+  .region-logo-grid {
+    gap: 15px;
+  }
+  .logo-card h2 {
+    font-size: 0.9rem;
+  }
+}
+@media (max-width: 480px) {
+  .region-logo-grid {
+    gap: 10px;
+  }
+  .logo-card h2 {
+    font-size: 0.8rem;
+  }
+}
+
+.region-logo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* mobile: 3 kolom */
+  gap: 20px; /* jarak antar kartu */
+  justify-items: center;
+  align-items: center;
+  padding: 10px 0;
+}
+
+.logo-card {
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.logo-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+}
+
+.region-logo {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* Desktop: 4 kolom */
+@media (min-width: 1024px) {
+  .region-logo-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

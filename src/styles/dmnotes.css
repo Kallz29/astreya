@@ -1,0 +1,175 @@
+/* Container utama */
+.dmnotes-container {
+  width: 95%;
+  max-width: 1000px;
+  margin: 20px auto;
+  padding: 1.5rem;
+  background: rgba(27, 24, 51, 0.8);
+  border: 2px solid var(--color-secondary);
+  border-radius: 12px;
+  box-shadow: 0 0 25px rgba(0,0,0,0.7);
+  box-sizing: border-box;
+}
+
+/* Setiap bab */
+.dm-note-bab {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: rgba(68, 23, 82, 0.7);
+  border-left: 0.4rem solid var(--color-primary);
+  border-radius: 10px;
+  box-shadow: inset 0 0 12px rgba(0,0,0,0.5);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  word-wrap: break-word;
+}
+
+/* Hover efek */
+.dm-note-bab:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 0 20px rgba(242, 159, 88, 0.5);
+}
+
+/* Judul */
+.dm-note-bab h2 {
+  color: var(--color-primary);
+  font-size: 1.6rem;
+  margin-bottom: 0.8rem;
+  text-shadow: 1px 1px 4px var(--color-secondary);
+}
+
+/* Teks dan strong */
+.dm-note-bab strong {
+  display: block;
+  margin-top: 0.5rem;
+  margin-bottom: 0.3rem;
+  color: var(--color-primary);
+  font-size: 1.05rem;
+  text-shadow: 0 0 4px var(--color-secondary);
+}
+
+.dm-note-bab p {
+  line-height: 1.5;
+  font-size: 1rem;
+  margin-bottom: 0.8rem;
+  color: var(--color-text);
+  text-align: justify;
+}
+
+.dm-note-bab ul {
+  margin: 0.5rem 0 0.5rem 1.2rem;
+  padding: 0;
+  list-style-type: disc;
+  color: var(--color-text);
+}
+
+.dm-note-bab li {
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+  font-size: 0.95rem;
+}
+
+/* LOGIN CONTAINER */
+.dmnotes-login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  padding-top: 5rem;
+  background: linear-gradient(135deg, rgba(27,24,51,0.9), rgba(68,23,82,0.8));
+  box-sizing: border-box;
+}
+
+.dmnotes-login-card {
+  background: rgba(27, 24, 51, 0.85);
+  border: 2px solid var(--color-secondary);
+  border-radius: 12px;
+  padding: 2rem;
+  text-align: center;
+  box-shadow: 0 0 25px rgba(0,0,0,0.8), 0 0 20px rgba(242,159,88,0.3);
+  animation: fadeInUp 0.8s ease;
+  max-width: 400px;
+  width: 90%;
+  box-sizing: border-box;
+}
+
+.dmnotes-login-card h1 {
+  font-family: 'Cinzel', serif;
+  font-size: 1.8rem;
+  color: var(--color-primary);
+  margin-bottom: 1rem;
+  text-shadow: 0 0 8px rgba(242,159,88,0.7);
+}
+
+.login-subtitle {
+  color: var(--color-text);
+  font-size: 0.95rem;
+  margin-bottom: 1.5rem;
+  opacity: 0.9;
+  font-style: italic;
+}
+
+.dmnotes-input {
+  width: 100%;
+  padding: 0.8rem 1rem;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+  border: 1px solid var(--color-secondary);
+  background: rgba(68,23,82,0.6);
+  color: var(--color-text);
+  font-size: 0.95rem;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+.dmnotes-input:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 8px rgba(242,159,88,0.5);
+}
+
+.dmnotes-btn {
+  width: 100%;
+  padding: 0.8rem;
+  border: none;
+  border-radius: 6px;
+  background: var(--color-primary);
+  color: var(--color-dark);
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: transform 0.2s ease, background 0.3s ease;
+}
+
+.dmnotes-btn:hover {
+  transform: translateY(-2px);
+  background: var(--color-secondary);
+  color: #fff;
+  box-shadow: 0 0 10px rgba(242,159,88,0.6);
+}
+
+/* Animasi masuk */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px);}
+  to { opacity: 1; transform: translateY(0);}
+}
+
+/* === RESPONSIVE MEDIA QUERIES === */
+@media (max-width: 1024px) {
+  .dm-note-bab h2 { font-size: 1.4rem; }
+  .dm-note-bab p, .dm-note-bab li { font-size: 0.95rem; }
+  .dmnotes-login-card h1 { font-size: 1.5rem; }
+}
+
+@media (max-width: 768px) {
+  .dmnotes-container { padding: 1rem; }
+  .dm-note-bab { padding: 0.8rem; }
+  .dm-note-bab h2 { font-size: 1.2rem; }
+  .dm-note-bab p, .dm-note-bab li { font-size: 0.9rem; }
+  .dmnotes-login-card { padding: 1.5rem; }
+}
+
+@media (max-width: 480px) {
+  .dm-note-bab h2 { font-size: 1rem; }
+  .dm-note-bab p, .dm-note-bab li { font-size: 0.85rem; }
+  .dmnotes-login-card { padding: 1rem; }
+  .dmnotes-btn { font-size: 0.9rem; padding: 0.6rem; }
+}
