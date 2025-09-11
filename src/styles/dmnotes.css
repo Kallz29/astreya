@@ -74,8 +74,8 @@
   justify-content: center;
   align-items: center;
   min-height: 80vh;
-  padding-top: 5rem;
-  background: linear-gradient(135deg, rgba(27,24,51,0.9), rgba(68,23,82,0.8));
+  padding: 1rem;
+  background: none;   /* 🔥 hapus background ungu */
   box-sizing: border-box;
 }
 
@@ -110,8 +110,10 @@
 
 .dmnotes-input {
   width: 100%;
+  max-width: 300px;   /* 🔥 biar sejajar & nggak kepanjangan */
+  margin: 0 auto 1rem auto; 
+  display: block;
   padding: 0.8rem 1rem;
-  margin-bottom: 1rem;
   border-radius: 6px;
   border: 1px solid var(--color-secondary);
   background: rgba(68,23,82,0.6);

@@ -19,7 +19,10 @@ const Navbar = () => {
         <Link to="/world" className="nav-link" onClick={() => setMenuOpen(false)}>World</Link>
         <Link to="/characters" className="nav-link" onClick={() => setMenuOpen(false)}>Characters</Link>
         <Link to="/citymap" className="nav-link" onClick={() => setMenuOpen(false)}>City Map</Link>
+        <Link to="/questlog" className="nav-link" onClick={() => setMenuOpen(false)}>Quest Log</Link>
         <Link to="/dmnotes" className="nav-link" onClick={() => setMenuOpen(false)}>DM Notes</Link>
+        
+
       </div>
     </nav>
   );

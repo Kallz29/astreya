@@ -9,6 +9,8 @@ import WorldPage from "./pages/WorldPage";
 import CityMapPage from "./pages/CityMapPage";
 import CharactersPage from "./pages/CharactersPage";
 import DMNotesPage from "./pages/DMNotesPage";
+import QuestLogPage from "./pages/QuestLogPage";
+
 
 const App = () => {
   const location = useLocation();
@@ -58,6 +60,15 @@ const App = () => {
               </PageWrapper>
             }
           />
+          <Route
+  path="/questlog"
+  element={
+    <PageWrapper>
+      <QuestLogPage />
+    </PageWrapper>
+  }
+/>
+
         </Routes>
       </AnimatePresence>
     </>
