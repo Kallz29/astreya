@@ -22,6 +22,7 @@ const QuestLogPage = () => {
         id: doc.id,
         ...doc.data(),
       }));
+        console.log("📡 Snapshot update:", data); // 🔍 DEBUG realtime
       setQuests(data);
     });
     return () => unsub();
