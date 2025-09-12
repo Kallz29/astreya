@@ -1,6 +1,6 @@
 /* === NAVBAR === */
 .navbar {
-  background: linear-gradient(90deg, rgba(27,24,51,0.95), rgba(68,23,82,0.95));
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.95), rgba(68,23,82,0.95));
   padding: 0.8rem 1.5rem;
   display: flex;
   justify-content: space-between;

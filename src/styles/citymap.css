@@ -1,259 +1,91 @@
-/* === CITYMAP PAGE WRAPPER === */
-.citymap-page {
+/* CITYMAP POPUP (overlay terpisah) */
+.citymap-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.85);
   display: flex;
-  flex-direction: column;
+  justify-content: center;
   align-items: center;
-  text-align: center;
-  padding: 20px;
+  z-index: 3000;
+  padding: 12px;
+  overflow: auto;
 }
 
-/* === PAGE TITLE === */
-.citymap-page > h1 {
-  font-size: 2.2rem;
-  margin-bottom: 40px;
-  color: var(--color-primary);
-  text-shadow: 0 0 10px rgba(242,159,88,0.7),
-               0 0 20px rgba(171,68,89,0.5);
+/* container for full map + legend */
+.citymap-popup-content {
+  width: 95vw;
+  max-width: 1200px;
+  max-height: 95vh;
+  overflow: auto;
+  position: relative;
+  padding: 12px;
+  box-sizing: border-box;
 }
 
-/* === REGION WRAPPER === */
-.citymap-region {
-  text-align: center;
-  margin-bottom: 50px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+/* close button for citymap popup */
+.citymap-close {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  z-index: 20;
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 30px;
+  cursor: pointer;
 }
 
-/* === REGION TITLE === */
-.citymap-region h2 {
-  font-size: 1.8rem;
-  margin-bottom: 15px;
-  color: var(--color-primary);
-  text-shadow: 0 0 8px rgba(242,159,88,0.6),
-               0 0 15px rgba(171,68,89,0.4);
-}
-
-/* === MAP IMAGE === */
-.citymap-image {
+/* full map image (edge-to-edge inside container) */
+.citymap-fullimage {
   width: 100%;
-  max-width: 800px;
-  border-radius: 12px;
-  box-shadow: 0 0 15px rgba(0,0,0,0.6);
-  margin-bottom: 20px;
+  height: auto;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  object-fit: cover;
+  border-radius: 6px;
+  object-fit: contain;
+  background: #000;
 }
 
-/* === LEGEND === */
-.citymap-legend {
-  background: rgba(27, 24, 51, 0.8);
-  border: 2px solid var(--color-secondary);
-  border-radius: 10px;
-  padding: 15px 20px;
-  margin-top: 20px;
-  max-width: 800px;
-  margin-left: auto;
-  margin-right: auto;
-  box-shadow: 0 0 25px rgba(0, 0, 0, 0.7);
-  font-family: 'Merriweather', serif;
-  color: var(--color-text);
+/* legend under the image */
+.citymap-legend-full {
+  margin-top: 12px;
+  padding: 12px;
+  border-radius: 8px;
+  background: rgba(255,255,255,0.03);
+  color: #fff;
+  border: 1px solid rgba(255,255,255,0.06);
 }
 
-.citymap-legend h3 {
-  font-family: 'Cinzel', serif;
-  color: var(--color-primary);
-  text-shadow: 0 0 6px rgba(242,159,88,0.6),
-               0 0 12px rgba(171,68,89,0.5);
-  margin-bottom: 15px;
-  font-size: 1.5rem;
+.citymap-legend-full h4 {
+  margin: 0 0 8px 0;
+  color: #f39c12;
 }
 
-.citymap-legend ul {
+.citymap-legend-full ul {
   list-style: none;
   padding: 0;
   margin: 0;
-  counter-reset: item;
-}
-
-.citymap-legend li {
   display: flex;
-  align-items: center;
-  margin-bottom: 12px;
-  font-size: 1rem;
-  position: relative;
-  padding-left: 40px;
-  transition: transform 0.2s ease;
+  gap: 8px;
+  flex-wrap: wrap;
 }
 
-.citymap-legend li::before {
-  content: counter(item);
-  counter-increment: item;
-  position: absolute;
-  left: 0;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-  background: var(--color-primary);
-  color: var(--color-dark);
-  font-weight: bold;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  box-shadow: 0 0 8px var(--color-primary),
-              0 0 15px rgba(242,159,88,0.3);
-}
-
-.citymap-legend li:hover {
-  transform: translateX(5px);
-  color: #fff;
-  text-shadow: 0 0 8px var(--color-primary);
-}
-
-/* === PASSWORD BOX === */
-.citymap-password {
-  margin-top: 15px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 10px;
-}
-
-.citymap-password input {
-  padding: 8px 12px;
+.citymap-legend-full li {
+  padding: 6px 10px;
+  background: rgba(255,255,255,0.04);
   border-radius: 6px;
-  border: 1px solid var(--color-secondary);
-  background: rgba(27,24,51,0.8);
-  color: var(--color-text);
+  font-size: 0.95rem;
 }
 
-.citymap-password button {
-  padding: 8px 14px;
-  border-radius: 6px;
-  background-color: var(--color-primary);
-  color: var(--color-dark);
-  font-weight: bold;
-  border: none;
-  cursor: pointer;
-  transition: background 0.3s ease;
-}
-
-.citymap-password button:hover {
-  background-color: var(--color-secondary);
-  color: #fff;
-}
-
-/* === ALERT POPUP === */
-.alert-popup {
-  position: fixed;
-  top: 20px;
-  left: 50%;
-  transform: translateX(-50%);
-  padding: 10px 20px;
-  border-radius: 8px;
-  background-color: rgba(0,0,0,0.8);
-  color: #fff;
-  z-index: 999;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-
-/* === ANIMATIONS === */
-.region-unlock-anim {
-  animation: regionAppear 1s ease forwards;
-}
-
-@keyframes regionAppear {
-  0% { opacity: 0; transform: scale(0.7) rotate(-5deg); }
-  50% { opacity: 1; transform: scale(1.1) rotate(2deg); }
-  100% { opacity: 1; transform: scale(1) rotate(0); }
-}
-
-.image-anim {
-  animation: imageFadeZoom 1s ease forwards;
-}
-
-@keyframes imageFadeZoom {
-  0% { opacity: 0; transform: scale(0.9); }
-  100% { opacity: 1; transform: scale(1); }
-}
-
-.legend-anim {
-  animation: legendSlideUp 0.8s ease forwards;
-}
-
-@keyframes legendSlideUp {
-  0% { opacity: 0; transform: translateY(30px); }
-  100% { opacity: 1; transform: translateY(0); }
-}
-
-/* === RESPONSIVE DESIGN === */
-
-/* Tablet (≤900px) */
-@media (max-width: 900px) {
-  .citymap-page > h1 {
-    font-size: 1.8rem;
-    margin-bottom: 30px;
+/* small screens */
+@media (max-width: 768px) {
+  .citymap-popup-content {
+    width: 98vw;
+    max-width: 98vw;
+    padding: 8px;
   }
-  .citymap-region h2 {
-    font-size: 1.5rem;
+  .citymap-fullimage {
+    max-height: 65vh;
+    object-fit: contain;
   }
-  .citymap-image {
-    max-width: 90%;
-  }
-  .citymap-legend {
-    max-width: 90%;
-    padding: 12px 15px;
-  }
-  .citymap-legend li {
-    padding-left: 35px;
-    font-size: 0.95rem;
-  }
-  .citymap-legend li::before {
-    width: 22px;
-    height: 22px;
-    font-size: 0.85rem;
-  }
-  .citymap-legend h3 {
-    font-size: 1.3rem;
-  }
-}
-
-/* Mobile (≤600px) */
-@media (max-width: 600px) {
-  .citymap-page {
-    padding: 10px;
-  }
-  .citymap-page > h1 {
-    font-size: 1.5rem;
-    margin-bottom: 20px;
-  }
-  .citymap-region h2 {
-    font-size: 1.2rem;
-  }
-  .citymap-image {
-    max-width: 100%;
-  }
-  .citymap-legend {
-    max-width: 100%;
-    padding: 10px 12px;
-  }
-  .citymap-legend li {
-    padding-left: 30px;
-    font-size: 0.9rem;
-  }
-  .citymap-legend li::before {
-    width: 20px;
-    height: 20px;
-    font-size: 0.8rem;
-  }
-  .citymap-legend h3 {
-    font-size: 1.1rem;
-    margin-bottom: 10px;
-  }
+  .citymap-legend-full ul { gap: 6px; }
 }

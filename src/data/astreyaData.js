@@ -28,7 +28,8 @@ export const astreyaData = {
         { name: "Lembah Reruntuhan" },
         { name: "Hutan Beku" },
         { name: "Sungai Pembeku" }
-      ]
+      ],
+      coords: { top: "27%", left: "74%" }
     },
     {
       name: "Drenmar",
@@ -47,7 +48,8 @@ export const astreyaData = {
         { name: "Sungai Kehidupan" },
         { name: "Reruntuhan Bawah Pohon" },
         { name: "Danau Cahaya" }
-      ]
+      ],
+      coords: { top: "45%", left: "90%" }
     },
     {
       name: "Lembara",
@@ -66,7 +68,8 @@ export const astreyaData = {
         { name: "Reruntuhan Bawah Tanah" },
         { name: "Area Ladang" },
         { name: "Jembatan Sinar" }
-      ]
+      ],
+      coords: { top: "60%", left: "57%" }
     },
     {
       name: "Nalarra",
@@ -85,7 +88,8 @@ export const astreyaData = {
         { name: "Kapal Hantu" },
         { name: "Tebing Berpetir" },
         { name: "Kuil yang Tenggelam" }
-      ]
+      ],
+      coords: { top: "72%", left: "10%" }
     },
     {
       name: "Hijrana",
@@ -104,7 +108,8 @@ export const astreyaData = {
         { name: "Sumber Mata Air" },
         { name: "Gubuk Terbengkalai" },
         { name: "Jalur Lumina" }
-      ]
+      ],
+      coords: { top: "58%", left: "22%" }
     },
     {
       name: "Shirana",
@@ -123,7 +128,8 @@ export const astreyaData = {
         { name: "Sungai Ular" },
         { name: "Gua Penyembuhan" },
         { name: "Pohon Raksasa" }
-      ]
+      ],
+      coords: { top: "75%", left: "92%" }
     },
     {
       name: "Pasvara",
@@ -142,7 +148,8 @@ export const astreyaData = {
         { name: "Reruntuhan Batu Rune" },
         { name: "Bukit Gema" },
         { name: "Titik Bayangan" }
-      ]
+      ],
+      coords: { top: "88%", left: "55%" }
     },
     {
       name: "Kavvara",
@@ -161,7 +168,8 @@ export const astreyaData = {
         { name: "Tambang Kristal" },
         { name: "Jembatan Besi" },
         { name: "Jantung Pegunungan" }
-      ]
+      ],
+      coords: { top: "88%", left: "13%" }
     },
   ],
 };

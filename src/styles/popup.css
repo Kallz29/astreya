@@ -1,15 +1,184 @@
+/* === Map Section === */
+.map-image-section {
+  position: relative;
+  display: inline-block;
+  width: 100%;           /* biar full */
+}
+
+.map-image-section img.citymap-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 0;      /* biar benar-benar full */
+  object-fit: contain;
+}
+
+/* === Pinpoint (Hotspot) === */
+.pinpoint {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: translate(-50%, -100%);
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0;
+  z-index: 10;           /* pastikan muncul di atas image */
+}
+
+.pin-icon {
+  width: 26px;
+  height: 26px;
+  background: linear-gradient(145deg, #ff4d6d, #c9184a);
+  border-radius: 50%;
+  border: 3px solid white;
+  box-shadow: 0 0 12px rgba(255, 77, 109, 0.7),
+              inset 0 0 6px rgba(255,255,255,0.4);
+  position: relative;
+  z-index: 2;
+  animation: float 2s ease-in-out infinite;
+}
+
+/* === Citymap Access Section === */
+.citymap-access {
+  margin-top: 20px;
+  padding: 16px;
+  text-align: center;
+}
+
+.citymap-access h3 {
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #f39c12; /* emas */
+}
+
+.citymap-access input {
+  padding: 10px 14px;
+  border-radius: 6px;
+  border: 1px solid #ff9966; /* warna border aksen */
+  background: linear-gradient(145deg, #1e1b29, #2b2740);
+  color: #fff;
+  font-size: 14px;
+  width: 220px;
+  margin-right: 8px;
+  transition: border 0.3s ease, box-shadow 0.3s ease;
+}
+
+.citymap-access input::placeholder {
+  color: #aaa;
+}
+
+.citymap-access input:focus {
+  outline: none;
+  border-color: #ffa366;
+  box-shadow: 0 0 8px rgba(255, 153, 102, 0.5);
+}
+
+/* Tombol Unlock */
+.citymap-access button {
+  padding: 10px 18px;
+  border-radius: 6px;
+  background: #ff9966;
+  color: #fff;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.25s ease, transform 0.2s ease;
+}
+.citymap-access button:hover {
+  background: linear-gradient(135deg, #ffb733, #b9770e);
+  transform: translateY(-2px);
+}
+
+/* === Citymap Popup Fullscreen === */
+.citymap-popup {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  text-align: center; /* biar gambar tetap di tengah */
+}
+
+.citymap-popup img.citymap-image {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 80vh;  /* biar tidak overflow layar */
+  display: block;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+
+
+/* Legend */
+.citymap-legend {
+  background: rgba(0,0,0,0.35);
+  padding: 14px 18px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.15);
+  margin-top: 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.6);
+}
+
+.citymap-legend h4 {
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #f39c12;
+  text-shadow: 0 0 6px rgba(243, 156, 18, 0.6);
+}
+
+.citymap-legend ol {
+  padding-left: 20px;
+}
+
+.legend-item {
+  opacity: 0;
+  transform: translateX(-10px);
+  animation: fadeInRight 0.5s ease forwards;
+  margin: 4px 0;
+  color: #eee;
+  font-size: 0.95rem;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.legend-item:hover {
+  color: #ffd700;
+  transform: translateX(5px) scale(1.05);
+}
+
+.legend-number {
+  font-weight: bold;
+  color: #f39c12; /* kuning emas */
+  margin-right: 6px;
+  text-shadow: 0 0 6px rgba(243, 156, 18, 0.8);
+}
+
+
+@keyframes fadeInRight {
+  0% {
+    opacity: 0;
+    transform: translateX(-15px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+
+/* === Popup Overlay & Content === */
 .popup-overlay {
   position: fixed;
-  top: 0; left: 0;
-  width: 100%; height: 100%;
-  background-color: rgba(0, 0, 0, 0.7);
+  inset: 0;
+  background: rgba(0,0,0,0.75);
   display: flex;
   justify-content: center;
   align-items: center;
-  z-index: 1001;
-  opacity: 0;
-  visibility: hidden;
-  transition: opacity 0.3s ease, visibility 0.3s ease;
+  z-index: 2000;
+  padding: 12px;
+  overflow-y: auto;
 }
 
 .popup-overlay.open {
@@ -18,40 +187,183 @@
 }
 
 .popup-content {
-  background-color: var(--color-dark);
-  border: 2px solid var(--color-secondary);
-  border-radius: 12px;
-  padding: 2rem;
-  max-width: 550px;
-  width: 90%;
-  box-shadow: 0 6px 20px rgba(0,0,0,0.7);
-  animation: fadeInScale 0.4s ease;
+  background: #1c1230; /* gelap elegan */
+  border-radius: 16px;
+  max-width: 800px;
+  width: 100%;
+  max-height: 92vh;
+  overflow-y: auto;
+  padding: 24px;
   position: relative;
+  animation: fadeInScale 0.3s ease;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.6);
+  color: #fff;
 }
 
+/* Animasi popup */
+@keyframes fadeInScale {
+  0% {
+    opacity: 0;
+    transform: scale(0.9) translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+/* === Close Button === */
 .close-btn {
   position: absolute;
-  top: 15px; right: 15px;
+  top: 12px;
+  right: 16px;
+  font-size: 24px;
   background: none;
   border: none;
-  color: var(--color-primary);
-  font-size: 2rem;
   cursor: pointer;
-  transition: color 0.3s ease, transform 0.2s ease;
+  transition: transform 0.25s ease, color 0.25s ease;
+  color: #f39c12;
 }
-
 .close-btn:hover {
-  color: var(--color-secondary);
+  color: #ffd700;
   transform: rotate(90deg) scale(1.2);
 }
 
-/* Gambar di dalam popup (WorldPage) */
-.popup-content img {
-  width: 100%;            /* biar lebar penuh */
-  max-height: 300px;      /* batasi tinggi supaya tidak kepanjangan */
-  object-fit: cover;      /* biar gambar rapi tanpa melebar aneh */
+/* === Images === */
+/* Environment image style */
+.region-env-image {
+  width: 100%;               /* full width container */
+  max-height: 320px;         /* tetap pakai max-height */
+  height: auto;              /* responsive */
+  object-fit: cover;         /* crop agar penuh */
+  border-radius: 10px;
+  margin-bottom: 16px;
+  border: 3px solid #f39c12; /* emas */
+  box-shadow: 0 4px 14px rgba(0,0,0,0.7);
+}
+
+
+/* Logo image untuk tema DnD */
+.region-logo {
+  width: 100%;             /* maksimal responsif */
+  max-width: 250px;        /* lebih besar dari sebelumnya */
+  height: auto;            /* proporsional */
+  object-fit: contain;     /* jangan crop */
+  display: block;
+  margin: 0 auto 16px auto;  /* center + margin bawah */
+  border-radius: 12px;     /* rounded lembut */
+  border: 2px solid rgba(242,159,88,0.7); /* border emas transparan */
+  box-shadow: 0 4px 16px rgba(242,159,88,0.5), 0 0 20px rgba(171,68,89,0.3);
+  background-color: transparent; /* hapus background putih */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover efek untuk lebih dramatis */
+.region-logo:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 20px rgba(242,159,88,0.7), 0 0 30px rgba(171,68,89,0.5);
+}
+
+/* === Region Info === */
+.region-info {
+  position: relative;
+  padding: 20px;
+  max-height: 80vh;
+  background: rgba(0,0,0,0.35);
+  border-radius: 10px;
+  margin-top: 16px;
+  overflow: hidden;
+  color: #f0f0f0;
+}
+
+.region-watermark {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+
+.region-info h2 {
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-bottom: 12px;
+  color: #f39c12;
+  position: relative;
+  z-index: 1;
+}
+
+.region-info p {
+  margin: 6px 0;
+  line-height: 1.5;
+  position: relative;
+  z-index: 1;
+}
+
+/* === Responsive === */
+@media (max-width: 768px) {
+  .popup-content {
+    max-width: 95%;
+    padding: 16px;
+    border-radius: 12px;
+  }
+
+  .region-env-image {
+    max-height: 200px;
+  }
+
+  .citymap-image {
+    max-height: 220px;
+  }
+
+  .citymap-access input {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .citymap-access button {
+    width: 100%;
+  }
+}
+
+/* Scrollbar custom untuk popup dan region-info */
+.popup-content::-webkit-scrollbar,
+.region-info::-webkit-scrollbar {
+  width: 10px;
+}
+
+.popup-content::-webkit-scrollbar-track,
+.region-info::-webkit-scrollbar-track {
+  background: rgba(60,55,91,0.5);
   border-radius: 8px;
-  margin-bottom: 15px;
-  border: 2px solid var(--color-primary);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.6);
+}
+
+.popup-content::-webkit-scrollbar-thumb,
+.region-info::-webkit-scrollbar-thumb {
+  background: linear-gradient(145deg, #f29f58, #ab4459);
+  border-radius: 8px;
+  border: 2px solid rgba(27,24,51,0.5);
+}
+
+.popup-content::-webkit-scrollbar-thumb:hover,
+.region-info::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(145deg, #ffd700, #ff4d6d);
+}
+
+/* Pastikan region-info bisa scroll jika konten panjang */
+.region-info {
+  overflow-y: auto;
+  max-height: 70vh; /* sesuaikan agar scroll muncul tapi tetap proporsional */
+  padding: 20px;
+  background: rgba(0,0,0,0.35);
+  border-radius: 10px;
+}
+
+/* Untuk smooth scroll experience */
+.popup-content,
+.region-info {
+  scrollbar-width: thin;
+  scrollbar-color: #f29f58 rgba(60,55,91,0.5); /* Firefox */
+  scroll-behavior: smooth;
 }

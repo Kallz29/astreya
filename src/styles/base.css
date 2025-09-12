@@ -1,13 +1,57 @@
 :root {
+  
   --color-primary: #F29F58;
   --color-secondary: #AB4459;
   --color-dark: #441752;
   --color-bg: #1B1833;
   --color-text: #e0e0e0;
 }
+.page-wrapper-outer {
+  height: 100vh;
+  overflow: hidden; /* sembunyikan scrollbar asli */
+}
+
+.page-wrapper-inner {
+  height: 100%;
+  overflow: hidden; /* tetap hidden, scroll dikontrol JS */
+}
+
+/* Hilangkan scrollbar di semua browser */
+body {
+  overflow: hidden; /* tidak bisa scroll */
+}
+
+/* Kalau tetap mau bisa scroll pakai mouse/touch tapi scrollbar disembunyikan */
+body {
+  overflow-y: scroll; /* tetap bisa scroll */
+  scrollbar-width: none; /* untuk Firefox */
+}
+
+body::-webkit-scrollbar {
+  display: none; /* untuk Chrome, Safari, Edge */
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  overflow-y: auto;          /* tetap bisa scroll */
+  scrollbar-width: none;     /* Firefox */
+}
+
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+  display: none;             /* Chrome, Safari, Edge */
+}
+
+
+.page-transition::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Edge */
+}
+
+
 
 body {
-  font-family: 'Merriweather', serif;
+  font-family: 'Uncial Antiqua', cursive;
   margin: 0;
   padding: 0;
   background-color: var(--color-bg);
@@ -26,7 +70,7 @@ body::before {
 }
 
 h1, h2, h3 {
-  font-family: 'Cinzel', serif;
+  font-family: 'Cinzel Decorative', serif;
   color: var(--color-primary);
   text-shadow: 0 0 6px rgba(242,159,88,0.6), 0 0 15px rgba(171,68,89,0.5);
 }

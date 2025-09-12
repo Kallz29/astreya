@@ -2,41 +2,49 @@ import React, { useState } from "react";
 import { astreyaData } from "../data/astreyaData";
 import RegionModal from "../components/RegionModal";
 import heroImage from "../assets/astreya.png";
-import { regionImages } from "../utils/regionAssets";
 
 const WorldPage = () => {
   const [selectedRegion, setSelectedRegion] = useState(null);
 
   return (
     <div className="container">
+      {/* Header */}
       <div className="section world-header">
         <h1>Peta Astreya & Wilayahnya</h1>
-        <p className="subtitle">Telusuri setiap wilayah di Astreya.</p>
+        <p className="subtitle">
+          Klik pada peta untuk menjelajahi detail tiap wilayah.
+        </p>
       </div>
 
-      <div className="section map-image-section">
-        <img src={heroImage} alt="Peta Astreya" className="hero-image map-image" />
-      </div>
+      {/* Peta Utama */}
+      <div className="section map-image-section relative">
+        <img
+          src={heroImage}
+          alt="Peta Astreya"
+          className="hero-image map-image"
+        />
 
-      <div className="section region-logo-grid">
         {astreyaData.regions.map((region, index) => (
-          <div
+          <button
             key={index}
-            className="logo-card"
+            className="pinpoint"
+            style={{
+              top: region.coords.top,
+              left: region.coords.left,
+            }}
             onClick={() => setSelectedRegion(region)}
           >
-            <img
-              src={regionImages[region.name]}
-              alt={region.title}
-              className="region-logo"
-            />
-            <h2>{region.title}</h2>
-          </div>
+            <span className="pin-icon"></span>
+            <span className="pin-shadow"></span>
+          </button>
         ))}
       </div>
 
       {selectedRegion && (
-        <RegionModal region={selectedRegion} onClose={() => setSelectedRegion(null)} />
+        <RegionModal
+          region={selectedRegion}
+          onClose={() => setSelectedRegion(null)}
+        />
       )}
     </div>
   );
