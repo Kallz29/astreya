@@ -1,3 +1,7 @@
+4 CHARACTER
+
+
+
 Device: PC
 Nama: Agni Virya
 Race & Class : Dragonborn/Monk
@@ -31,3 +35,22 @@ Backstory : Tillie atau Till merupakan seorang alchemist dan tenaga medis dari S
             tujuan cukup bagi Tillie untuk meninggalkan labnya dan berpetualang, yaitu mencari dokter/alchemist terbaik di Astreya dan juga 
             mencari tahu apa yang terjadi di hutan Shirana terkait munculnya energi sihir yang membuat sahabatnya dan beberapa tanaman disini 
             menjadi tercemar. 
+
+Device: PC
+Nama : Kaelen
+Race & Class: Drow & Rogue
+Origin: Shirana
+Background: Kaelen dibesarkan oleh sebuah guild bayangan di Underdark Astreya, dilatih menjadi pembunuh hingga akhirnya dikhianati dan 
+            ditinggalkan untuk mati saat misi yang melibatkan energi sihir kuno. setelag selamat dengan luka dan dendam, ia masuk ke akademi 
+            untuk mencari jalan baru, namun tetap dikenal sebagai murid paling dingin dan pendiam. Saat kabar tentang malapetaka menyebar, 
+            Kaelen mengenali aura gelap yang pernah merenggut masa lalunya. baginya, misi ini adalah kesempatan untuk menuntut jawaban, 
+            memburu dalang di balik bencana, dan membuktikan bahwa bahkan bayangan pun bisa menentukan nasib Astreya.
+
+Device: PC
+Nama :  Setzling
+Race & Class: High Elf/Wizard
+Origin: Shirana
+Background: Seorang elf dari keluarga pemburu di kota Shirana. Dia tumbuh lebih kecil dari elf pada umumnya. Dia sering dibully karenanya 
+            dan jadi suka menyendiri di hutan. Suatu hari saat dihutan dia diserang oleh monster, namun ada seseorang yang datang dengan 
+            menggunakan sihir menyelamatkannya. Dari situ dia mulai tertarik dengan kekuatan dan keindahan sihir. Kini dia berambisi untuk 
+            mempelajari semua sihir.

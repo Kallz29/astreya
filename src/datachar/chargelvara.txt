@@ -1,0 +1,173 @@
+12 CHARACTER
+
+
+
+Device: PC
+Nama: Saeland
+Race & Class : Goliath/Barbarian
+Origin : Gelvara
+Backstory : Saeland merupakan anak dari kepala suku pemukiman Goliath yang tinggal di pegunungan dingin Gelvara. Disana ada beberapa 
+            macam Goliath dengan keturunan yang berbeda, namun yang paling sering ditemui berupa keturunan dari Frost dan Stone Giant.
+            Sejak kecil Saeland sering dipuji akan ketangkasannya dalam bertarung, hingga saat menginjak dewasa dia menjadi primadona bagi
+            para Goliath disana, walaupun begitu dia tidak memiliki banyak pengalaman bertarung yang sebenarnya diluar sana. Sehingga dia 
+            diutus untuk mencari pengalaman lebih agar dia mampu mewariskan ayahnya sebagai kepala suku yang pantas.
+
+
+
+Device: PC 
+Nama: Uzak "Penggaruk" Handal
+Race & Class: Goliath / Paladin
+Origin: Gelvara
+Backstory:  Seorang yatim piatu dari pegunungan salju Gelvara yang dingin dan tertutup salju selamanya. Ia hidup mandiri sejak berumur 5 tahun, 
+            ayah dan ibunya meninggalkan ia saat itu untuk berburu namun sayangnya tidak pernah kembali. Ia sempat turun untuk ke pemukiman 
+            namun semua orang takut dengan kehadirannya yang berbentuk besar tidak seperti manusia pada umumnya sehingga ia tidak tahu apa 
+            yang terjadi dengan orang tuanya sampai saat ini, yang bisa ia lakukan hanya bertahan hidup di pegunungan salju Gelvara.
+
+Device: PC
+Nama : Masbro
+Race & Class: Orc/Ranger
+Origin: Gelvara
+Background: masbro seorang orc yang tidak tega membunuh hewan sehingga sewaktu kecil selalu di olok olok lemah karena dia tidak pernah ikut 
+             berburu. di suatu ketika dia diam-diam masuk ke dalam hutan untuk mencoba memberanikan diri berburu. keadaan matahari berada dia 
+             atas kepala, dia bertemu hewan buas, saat mas bro sudah bersiap menyerang hewan tersebut menoleh dan membuat mas bro terpaku diam 
+             ketakutan. hewan buas tersebut langsung menerjang ke arah mas bro ketika mas bro bisa bergerak hewan tersebut sudah berada di 
+             depan matanya. secara tiba-tiba panah melesat dan membuat hewan tersebut mati. dari balik semak semak muncul orang asing yang 
+             bukan dari desa tempat dia tinggal, bertubuh tinggi besar dengan panah di tangannya. dia berbicara ke mas bro “gila berani banget 
+             masuk hutan sendirian. ayo sini ku antar pulang” masbro mengikuti orang tersebut. ketika perjalanan pulang masbro bercerita kenapa 
+             dia masuk ke hutan. orang tersebut kaget dan berkata “Tidak peduli apa yang mereka katakan, tidak peduli apa yang mereka pikirkan, 
+             lakukan hal yang menurutmu benar.” masbro tertegun mendengar kata kata dari orang tersebut, orang asing itu berbicara lagi 
+             “ah maaf aku buru buru, desamu sudah dekat, aku pergi dulu, siapa namamu? ah lupakan, kupanggil saja kau masbro. kalau kau ingin 
+             bertemu denganku lagi berpetualanglah, hati hati ya masbro selamat tinggal” orang tersebut pergi dengan cepat pada titik itu 
+             masbro ingin menjadi seperti penyelamat hidupnya dan mulai saat itu juga dia mengadopsi panggilan masbro dari orang tersebut.
+
+Device: PC
+Nama : Vargan son of Drogath
+Race & Class: Goliath/Babarian
+Origin: Gelvara
+Background: Vargan adalah seorang goliath yang ditinggalkan oleh orang tuanya. Ia ditemukan oleh pasangan orc dari suku yang berdiam di 
+            Gelvara. Ronan ditemukan oleh ayah angkatnya, Drogath, saat sedang melakukan perburuan serigala di tengah badai salju yang 
+            dahsyat. Karena Ronan adalah keturunan frost giant, ia mampu bertahan dalam badai tersebut, dan dari situlah nama Vargan diberikan 
+            (berarti “serigala” dalam bahasa Nordik). Drogath dan istrinya, Thura, merawat Vargan dengan sepenuh hati bersama ketujuh kakak 
+            angkat orc-nya. Keluarga besar ini hidup bersama suku orc kecil di tengah pegunungan salju, tempat di mana kehidupan keras 
+            menuntut kekuatan ekstra hanya untuk bertahan hidup. Walau keras, Vargan dibesarkan dengan kasih sayang, dan keluarganya 
+            menganggapnya sebagai darah daging sendiri.Sejak kecil, setiap anak di suku sudah diberi peran untuk berkontribusi kepada 
+            komunitas seperti pandai besi, pembuat baju, bertani, atau menambang. Namun, Vargan tidak menunjukkan bakat dalam peran-peran 
+            itu, ia hanya pandai berkelahi karena fisiknya yang besar sebagai goliath. Dalam tradisi orc, anak yang berumur 14 tahun 
+            (sudah hampir dewasa)wajib memberi kontribusi; jika tidak, mereka akan diusir. Semua kakak Vargan sudah memiliki perannya 
+            masing-masing—Grashnak sebagai kepala penambang batu yang keras kepala namun pekerja keras, Howlak sebagai pemburu utama 
+            yang menyediakan daging, Fenruk sebagai pembuat ramuan dari jamur dan akar, Skollash dan Morwarg sebagai pandai besi pembuat 
+            senjata dan peralatan, Raglolf sebagai pembuat baju dari kulit binatang, serta Druvolf sebagai penggembala serigala peliharaan 
+            suku. Sementara Vargan tidak memiliki peran, membuat kedua orang tuanya khawatir ia akan diusir pada usia 14.
+            Namun, tepat di hari ulang tahunnya ke-14, kejadian aneh terjadi: sebuah tato berbentuk serigala muncul di bahu kirinya. 
+            Vargan tidak sadarkan diri, dan orang tuanya membawanya ke shaman suku. Sang shaman menjelaskan bahwa tato tersebut adalah 
+            tanda dari Dewa yang disembah desa mereka, sekaligus sebuah ramalan bahwa Vargan harus meninggalkan desa, menjelajahi tujuh 
+            tanah dunia yang berbeda, dan mengumpulkan kekuatan untuk menyelamatkan desa dari ancaman besar suatu hari nanti. Vargan menerima 
+            ramalan itu tanpa ragu karena menyangkut keselamatan desanya. Orang tuanya pun memberi restu, menganggap ini sebagai tugas 
+            terhormat. Hari keberangkatan pun tiba. Orang-orang suku melepasnya dengan senyuman, sementara keluarganya memberi bekal 
+            masing-masing: Grashnak memberikan batu berkilau, Fenruk memberikan potion dalam botol unik, Skollash dan Morwarg membuatkan 
+            kapak dengan ukiran serigala, Raglolf memberikan perisai dari bulu tebal, Druvolf memberikan seekor serigala pintar bernama 
+            Fenrir, dan kedua orang tuanya menghadiahkan kalung dengan lambang suku yang selalu ia pakai.
+            Sejak saat itu, Vargan tumbuh menjadi pribadi yang selalu ingin membantu orang lain, mengingat dirinya dulu dianggap tidak 
+            berguna dan kersanya kehidupan bersalju membuatnyan terbiasa tolong menolong. Ia tidak peduli pada konsep uang karena merasa 
+            bisa bertahan hidup selama ada hutan. Vargan cukup asing dengan dunia luar, entah itu teknologi, sosial, ataupun pemerintahan. 
+            Dengan tekad kuat, Vargan berkelana untuk mengumpulkan kekuatan yang ia bisa, agar suatu hari nanti ia dapat kembali dan 
+            menyelamatkan desanya. Kini ia mengembara di Astreya, mencoba memenuhi ramalan sang shaman.
+
+Device: PC
+Nama : Ballaros
+Race & Class: Dragonborn (White Ancestry)/Bard
+Origin: Gelvara
+Background: Tanah kelahiranku adalah Gelvara, sebuah dataran beku dimana kapak lebih dihargai daripada kata-kata, dan kehangatan api unggun 
+            adalah kemewahan terbesar, maka tak aneh bila sisikku putih, sewarna dengan salju Gelvara. Sebagai seorang Dragonborn di antara 
+            klan-klan Frostborn yang tangguh, aku selalu sedikit berbeda, bukan hanya karena sisikku, tapi juga karena jiwaku. Ketika anak-anak 
+            lain belajar melacak jejak hewan buas di salju atau menambang kristal es, aku justru lebih tertarik mendengarkan "nyanyian" 
+            alam tundra, suara angin yang bergemuru melewati puncak es dan gema suara glasier yang retak di kejauhan. Aku mungkin bukan 
+            pemburu terhebat, tapi akulah yang memastikan kisah perburuan hebat mereka tidak akan pernah dilupakan, melantunkan balada para 
+            pahlawan klan di tengah malam yang dingin.Namun, lagu yang sama bila diulang terus akan terasa hambar. Kisah Gelvara memang agung, 
+            tapi aku tahu itu hanya satu bait dalam lagu dunia yang jauh lebih besar. Dengan restu para tetua, aku pergi bukan untuk harta, 
+            melainkan kisah. Aku ingin menyaksikan keajaiban dan perbuatan hebat, Agar kelak aku pulang membawa balada baru yang menghangatkan 
+            Gelvara melampaui dinginnya salju
+
+
+Device: PC
+Nama : Lip Zig
+Race & Class:  Human/Fighter
+Origin: Gelvara
+Background: LipZig sebenarnya tumbuh dari kecil di Nalarra, sejak kecil ia menjadi budak bajak laut di kapal bernama Mumford dengan kapten 
+            keji bernama Buto. Hingga suatu saat  kapal bajak laut ini mengalami krisis makanan dan badai es di sekitar lautan Gelvara. 
+            Yang memaksa LipZig kecil untuk menyelamatkan diri dan memanfaatkan situasi untuk kabur dari kapal. singkat cerita ia berhasil 
+            kabur dengan skoci di perairan dingin di tengah badai es. terdampar di Gelvara hampir mati kedinginan dan di selamtkan oleh Jaya 
+            Volkov. Mulai saat itu LipZig mengikuti Jaya dan menjadi seorang  pasukan pemburu hewan liar hingga saat ini.
+
+Device: PC
+Nama : Darius
+Race & Class: Goliath/Fighter
+Origin: Gelvara
+Background: Gideon Berasal Dari Sebuah Suku Goliath Yang Ada Di Pedalaman Negeri Salju Gelvara Suku Yang Mementingkan Kekuatan 
+            Atas Segalanya, Dia Disuruh Oleh Kepala Sukunya Untuk Pergi Keluar Gelvara Untuk Melakukan Perjalanan, Sebuah Tradisi 
+            Yang Harus Dilakukan Olehnya , Untuk Mengukur Betapa Tanggungnya Dirinya, Gideon Menerima Misi Itu Dengan Lapang Dadah , 
+            Karena Dia Tau Dirinya Pasti Bisa Melakukannya
+
+Device: PC
+Nama : Elyzerium
+Race & Class: Dragonborn/Babarian
+Origin: Gelvara
+Background: aku adalah ras naga frost silver dengan cacat dimata kanan mengalami kebutaan setengah yang mengakibatkan mata aku sebelah 
+            berwarna abu abuu dan mata kiri berwarna biruu seperti crystal oleh karena itu aku dikucilkan oleh ras aku sendiri, 
+            baik keluargaa sahabat dan kerajaan ku dikarenakan mereka menganggapku lahirnya sang petaka karna baru kali ini ada 
+            kejadian mata cacat abu abu dari lahir, aku terlahir di sebuah desa bernama Glacira’s Roost di negeri Gelvara kehidupan ku 
+            edari awal sudahh tidak baik. aku merupakan anak terakhir dari 3 bersaudara, 2 kakak ku yang merupakan pengawal ke kaisaran di 
+            negeri kami yang bernama Gelvara, ketika aku belum lahir mereka sangat berharap dan berexpetasi besar terhadap diriku yang 
+            merupakan naga jantan, namun ketika terlahir mereka sangat kaget dengan kehadiran sesosok anomali diriku yang ternyata cacatt 
+            dari lahir yaitu kebutaan total di mata kanan aku, semua sedih dan emosi atas kelahiran diriku dan di sangkutpautkan dengan 
+            bencana yang sering terjadii dan akhirnya aku mendapat julukan si naga petaka yang cacat.Akibat hinaan dan hujatan yang 
+            dilontarkan kepada diriku, akhirnya aku memutuskan untukk berkelana ke seluruh penjuru astreya, mencari kekuatan dan menopang 
+            rasa dendam dalam diriku yang sangat dalam kepada ras ku sendiri
+
+Device: PC
+Nama :  Mikhail Frostveil
+Race & Class: Human/Paladin
+Origin: Gelvara
+Background: Mikhail adalah seorang noble keponakan Raja Jaya Volkov dari Gelvara. Tidak pamannya mewarisi kekuatan Frostborn, Mikhail 
+            tidak terlahir dengan karunia darah es. Ia sering dibandingkan dengan pamannya yang merupakan ketua Gelvara. Karena ia 
+            merasa lelah dengan beban tersebut, ia memilih untuk pergi ke pusat kota Astreya untuk menempuh pendidikan, untuk menimba 
+            ilmu bertarung, diplomasi, dan sejarah negeri Astreya.Selama studinya, ia menemukan banyak sekali ilmu mengenai cerita yang 
+            menyingkap bahwa bencana lama yang memecah Astreya pernah benar-benar berakhir, melainkan hanya tertidur, menunggu waktu untuk 
+            bangkit kembali.Kini, ketika tiap daerah mulai diguncang bencana aneh, paman memanggil Mikhail untuk pulang ke Gelvara. Meski 
+            tidak memiliki kekuatan es, Mikhail membawa senjata lain: ilmu, tekad, dan hubungan dengan bangsa lain.Ia tidak hanya berjuang 
+            demi keluarganya, tapi juga demi Astreya sebelum kehancuran melahap segalanya.
+
+Device: PC
+Nama : Ratel Sphyra 
+Race & Class: Orc/Barbarian
+Origin: Gelvara
+Background: Seorang pemuda terlihat berdiri dengan rompi tipis dan celana pendek di tengah-tengah hujan salju. Ia berdiri di bagian depan 
+            kelompok pemburu, mengangkat kedua tangannya, dan berteriak ke arah Rusa Besar di depannya "Hraarrhhh!!". Lalu menerjang 
+            dan bergulat dengan rusa itu. Para pemberu di belakang hanya bersorak ramai, beberapa merasa pemuda itu agak gila. 
+            Pernah ada orang bertanya alasan Ratel tidak menggunakan baju tebal meski cuacanya dingin. Ia bilang, "rasanya, semakin banyak 
+            bagian kulit yang bersentuhan dengan alam, semakin ia merasa sehat dan kuat, hahaha!". Ada orang yang pernah memberitahu bahwa 
+            alam, cuaca, dan hewan di luar wilayah Gelvara berbeda. Mendengar itu Ratel berpikiran untuk berpetualang untuk merasakan alam 
+            di wilayah lain.
+
+Device: PC
+Nama : Thyra Stonesong
+Race & Class: Human/Cleric
+Origin: Gelvara
+Background: Thyra Stonesong lahir di Gelvara tepatnya di Echo hall sebuah tempat yang hanya di ketahui oleh Jaya Volkov yang mencatat 
+            sejarah masa lalu di Gelvara, tapi suatu hari ibunya pergi untuk berkelana mencari catatan sejarah masa lalu yang hilang, 
+            tetapi sudah 10 tahun lamanya.. ibunya belum kembali juga
+
+Device: HP
+Nama : Einar Skarfrost PC
+Race & Class: Human/Barbarian
+Origin: Gelvara
+Background: Di tanah beku Gelvara, lahirlah Einar Skarfrost dari suku Frostborn. Sejak kecil Einar tumbuh dengan keras sebagai anak 
+            dari seorang pemburu hewan liar. Dia belajar cara memburu dan mengahadapi berbagai hewan liar.Saat Einar menginjak usia 
+            dewasa dia merasakan sesuatu mengalir dalam darahnya, yaitu amarah(Rage). Bukan hanya gejolak emosi tapi merupakan perwujudan 
+            dari keganasan predator.  Dalam kepercayaannya terhadap Roh Es, dia melihat amarah(Rage) sebagai kekuatan dari leluhur.Suatu 
+            saat klannya terancam oleh gelombang binatang luas yang dipanggil oleh badai salju. Hal ini membuat amarah di dalam Einar meledak. 
+            Dia menerjang sendirian, setiap ayunan kapaknya membawa kekuatan penghancur. Sama seperti namanya seorang prajurit yang bertarung 
+            sendirian dia pun dikenal sebagai peling Gelvara.Einar tahu bahwa leluruh menuntut keberanian dalam amarahnya. Roh Es yang ia puja 
+            berbisik tentang bahaya yang lebih berbahaya, badai lain menunggu untuk dihadapi. Dengan membawa nama Skarfros, ia meninggalkan 
+            sukunya untuk menorehkan namanya di dunia, bukan lagi sebagai pemburu hewan liar tapi sebagai prajurit yang diberkati leluhur dan 
+            dituntun oleh Roh Es. 

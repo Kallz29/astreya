@@ -1,0 +1,65 @@
+3 CHARACTER
+
+
+
+Device: PC
+​Nama: Zuhayr 
+Race & Class: Human/Paladin
+Origin : Pasvara
+Backstory : Zuhayr bukanlah nama lahirnya. Nama itu diberikan oleh seorang peternak unta tua yang menemukannya sebagai bayi 
+            di tengah padang pasir Pasvara, dengan tangan penuh luka bakar seolah matahari sendiri telah menandainya. dan ia diberikan 
+            nama Zuhayr oleh peternak itu.Sejak kecil, Zuhayr tumbuh bersama unta di padang luas, mendengar dongeng tentang matahari, 
+            oasis suci, dan legenda lama. Namun, ia tak pernah cocok dengan aturan kaku suku nomaden Asyrian. Saat anak-anak lain duduk 
+            diam mendengarkan doa panjang, ia lebih memilih berlari keluar tenda bermain di bawah cahaya.Hidup berpindah dari oasis ke oasis 
+            membuatnya sering menyaksikan serangan bandit. Pedang, tombah dan darah bukan lah pemandangan langka bagi nya, melihat pedang 
+            berkarat tersebut melintasi leher angota karavan nya dan mengambil kekayaan yang susah payah diraih ayahnya, Zuhayr menanamkan 
+            keyakinan dimana senjata adalah alat kotor yang hanya bisa melukai dan tidak dapat melindungi siapapun. Zuhayr bersumpah tidak 
+            akan pernah menyentuh senjata dalam bentuk apapun karena berkeyakinan tangan manusia lebih suci, karena tanganlah yang memberi 
+            dan melindungi.Suatu malam, ketika kafilahnya diserang, seperti biasa Zuhayr bersembunyi dan ketakutan didalam tenda dan 
+            berada disamping ayah nya, tiba tiba seorang bandit masuk dan memaksa ayahnya menyerahkan zuhayr untuk dijadikan budak. 
+            Mendengar tuntutan bandit yang tidak masuk akal ayah nya mencoba melawan, tapi naas ayah zuhayr dibunuh dengan kejam didepan
+            mukanya. Tertelan oleh amarah seluruh rasa takut hangus dan zuhayr tanpa pikir panjang Zuhayr meluncurkan serangan terhadap 
+            bandit itu, perbedaan keahlian antara Zuhayr sangat terlihat. Zuhayr kalah telak dan Tubuhnya hancur dipukul musuh, hingga ia 
+            jatuh hampir mati. Ia kembali mulai sadar saat fajar tiba, sinar matahari menyinari tubuhnya. Disaat itu kafilah nya telah 
+            hangus, serta orangtua dan teman" nya kembali ke padang pasir. Dalam keputusasaan, ia mengangkat tangannya yang penuh luka ke 
+            arah cahaya dan bersumpah, “Jika matahari benar benar sumber kehidupan, jadikan aku tinjumu. Biarkan aku membakar kejahatan yang 
+            meracuni dunia ini.” Seketika, luka bakarnya menyala kembali, namun rasa sakit berubah menjadi kekuatan. Bara api yang menyala 
+            pada tangan nya dengan janji untuk memperbaiki dunia yang telah rusak (nanti oath of vengance).
+            Hari itu, Zuhayr lahir kembali sebagai seorang Paladin. Bukan melalui pedang atau doktrin, melainkan dengan tinju besi 
+            (reskin warhammer).
+
+Device: PC
+Nama : Verde Sirmeon
+Race & Class: Human/Monk
+Origin: Pasvara
+Background: Verde dibesarkan di bawah teriknya matahari gurun Pasvara, di mana setiap tetes air adalah anugerah dan setiap nafas angin 
+            membawa cerita dari masa lalu. Sebagai seorang anak, Verde tidak hanya belajar cara merawat unta, tetapi juga cara membaca 
+            pergerakan bintang dan tanda-tanda kecil di pasir, pelajaran yang diajarkan oleh suku nomadennya.Verde hidup di bawah 
+            kepemimpinan Amir Zaid, seorang pemimpin yang bijaksana dan adil, yang memastikan suku tetap bersatu dalam kerasnya gurun. 
+            Keluargamu, seperti kebanyakan orang Pasvara, adalah peternak unta dan pengrajin kulit yang terampil. Verde menghabiskan 
+            hari-harinya dengan mengukir pola-pola rumit pada kulit hewan, sambil mendengarkan kisah-kisah kuno tentang peradaban yang 
+            terlupakan di bawah pasir.Di Pasvara, semua masyarakat  memiliki keyakinan sebagai Pemuja Matahari. Verde percaya bahwa matahari 
+            adalah sumber kehidupan dan kekuatan, dan ritual harian adalah bagian tak terpisahkan dari hidup masyarakat Pasvara.Kehidupan 
+            Verde berubah drastis ketika suatu malam, badai pasir besar mengungkap sebuah Mata Air Suci yang tersembunyi. Dekat mata air 
+            itu, Verde menemukan sebuah kuil kuno yang terkubur. Di dalamnya, Verde menemukan gulungan dan petunjuk yang mengarah pada 
+            rahasia monk yang sudah lama hilang.Gulungan itu mengajarkannya cara menyalurkan energi vital dari dalam tubuh, mengendalikan 
+            napas, dan mengubah tubuh menjadi senjata. Dengan bimbingan gulungan itu, Verde mulai berlatih sendirian, menggabungkan pelajaran 
+            dari peradaban kuno dengan kebijaksanaan yang kamu miliki. Gerakan Verde menjadi secepat kilat gurun, dan setiap serangannya 
+            sekuat panasnya matahari siang.Kamu menyadari bahwa Mata Air Suci bukan hanya tempat suci, tetapi juga sebuah sumber energi 
+            spiritual yang memungkinkamu untuk melatih seni beladiri yang tersembunyi.Sebagai seorang nomaden dari Oase Terakhir, Verde 
+            merasakan ikatan yang kuat dengan tanah asalmu. Verde melihat Astreya yang terfragmentasi dan mengalami penderitaan yang mirip 
+            dengan apa yang bisa terjadi pada Pasvara jika Mata Air Suci mereka mengering. Oleh karena itu, Verde ingin menemukan 'mata air' 
+            baru, atau sumber energi sihir yang bersih, untuk membantu membangun kembali peradaban yang hancur.Tujuannya adalah untuk menjadi 
+            simbol harapan dan pemulihan, mirip dengan Mata Air Suci yang memberimu kekuatan. Kamu ingin menyatukan berbagai fragmen dunia, 
+            tidak dengan sihir kuno, tetapi dengan ajaran persatuan dan ketangguhan yang kamu pelajari dari kehidupan nomaden.
+
+Device: PC
+Nama : Ramad Maruf
+Race & Class: Human/Monk
+Origin: Pasvara
+Background: Ramad Maruf merupakan seorang pemuda yang besar di keluarga peternak unta. Sejak kecil ia sudah diajarkan bagaimana cara merawat 
+            dan membesarkan unta. Suatu ketika, salah satu untanya terlihat lemas, menyadari hal itu, Ramad memberikan obat yang biasa ia 
+            berikan kepada unta2 yang sakit. akan tetapi, bukannya sembuh, yang terjadi adalah unta yang sakit semakin bertambah, dan unta2 
+            mulai menjadi kurus. menyadari ada yang tidak beres, Ramad berencana meninggalkan Rakyat Nomad Asyiran untuk pergi ke Shirana. 
+            dengan tujuan meminta bantuan ke Ratu Aruna, Sang Penjaga RImba untuk meramu obat untuk unta untanya yang terkena penyakit 
+            misterius. ia pun membawa salah satu untanya yang terlihat masih kuat melakuka perjalan pergi menuju Shirana.

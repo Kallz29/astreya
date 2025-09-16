@@ -1,0 +1,67 @@
+5 CHARACTER
+
+
+
+Device: PC
+Nama: Owen Wallace
+Race & Class: Human/Rogue
+Origin: Lembara
+Backstory:
+  Owen adalah seorang anak yatim piatu biasa yang tinggal di panti asuhan dengan aturan yang ketat. Ia sangat menyukai buku karena
+  melalui buku, ia dapat melihat dunia yang lebih luas. Namun, koleksi buku di panti asuhannya sangat terbatas, sehingga Owen sering
+  menyelinap ke perpustakaan lokal untuk membaca. Setelah dewasa, Owen bekerja part time di sebuah perpustakaan besar di Lembara.
+  Perpustakaan ini tidak hanya menyimpan buku-buku biasa, tetapi juga buku-buku yang dilarang untuk dibaca publik. Dorongan rasa
+  ingin tahu membuat Owen menyelinap untuk membaca buku-buku terlarang tersebut. Ia tidak hanya membaca buku pengetahuan formal,
+  tetapi juga buku-buku tentang bela diri dan sihir. Berbekal kemampuan menyelinap dan pengetahuannya, Owen juga bekerja sebagai
+  petualang di guild.
+
+Device : PC
+Name : MrBudex
+Race & Class : Human/Paladin
+Origin : Lembara
+Backstory : MrBudex adalah seorang Paladin baru di kota lembara. meski agama bukan sesuatu yang begitu besar pengaruhnya di dunia masih banyak
+             orang yang menggantungkan nasibnya di gereja yang kurang populer di Lembara. MrBudex sebagai paladin baru mempelajari banyak skill²
+             untuk melindungi ataupun menyerang dari high Priest di kota lembara. meski dengan background yatim piatu yang di angkut seorang
+             suster di pemukiman kumuh namun cahaya tuhan memberkati MrBudex dengan berkah avinitasnya dengan elemen cahaya yang sangat tinggi.
+
+Device: PC
+Nama : Nuadha Leonhart
+Race & Class: Human/Rogue
+Origin: Lembara 
+Background: Nuadha Leonhart tidak pernah mengenal orang tuanya. Ia hanyalah bayi yang ditinggalkan di sudut pasar, sampai seorang rogue 
+            bernama Luna menemukannya. Luna yang pernah kehilangan anak kandungnya sendiri, membesarkan Nuadha seperti darah dagingnya: penuh kasih 
+            sayang, lembut, namun tegas ketika ia berbuat salah. Sejak kecil, Nuadha diajari cara bertahan hidup—bergerak dalam bayangan, membuka kunci, 
+            membaca tipu daya, hingga mengambil nyawa. Bagi Luna, semua itu bukan sekadar seni kejahatan, melainkan bekal agar Nuadha bisa bertahan di 
+            dunia yang kejam.Namun, seiring bertambah dewasa, Nuadha mulai memberontak. Ia ingin diakui, sering berselisih dengan Luna yang 
+            dianggapnya terlalu mengendalikan. Pertengkaran itu mencapai puncaknya saat Nuadha nekat menerima pekerjaan berbahaya. Luna 
+            menyusulnya, berusaha melindungi, tetapi mereka justru memicu jebakan arcane. Ledakan sihir memenuhi ruangan; Luna mendorong 
+            Nuadha keluar, menerima ledakan itu sendirian. Tatapan terakhirnya—penuh kasih sayang bercampur kecewa—selamanya menghantui Nuadha.
+            Sejak saat itu, Nuadha kehilangan rumah, ibu, dan arah hidupnya. Ia meninggalkan dunia kriminal dan memilih jalan adventurer, 
+            bukan demi emas atau ketenaran, melainkan untuk mencari arti hidup, menebus kesalahannya, dan membuktikan bahwa pengorbanan Luna 
+            tidak sia-sia.
+
+Device: PC
+Nama : Caelen Veyrion
+Race & Class: Tiefling/Sorcerer
+Origin: Lembara
+Background: Caelen Veyrion lahir dari keluarga bangsawan di Lembara, sebuah kerajaan yang dipenuhi kesuburan tanah dan cahaya iman kepada 
+            Dewa Matahari. Namun, kehadirannya sebagai tiefling dianggap aib di lingkungan keluarga yang menjunjung kemurnian dan kesucian. 
+            Tanduk dan ekornya selalu menjadi pengingat bahwa ia berbeda, seolah tidak selayaknya berada di antara para pewaris berdarah 
+            murni. Walau keluarganya tetap mempertahankan status bangsawan, Caelen tumbuh dengan tatapan curiga dan bisik-bisik hinaan di 
+            balik punggungnya.Seiring usianya bertambah, kekuatan sihir dalam dirinya bangkit, liar dan penuh gejolak, seakan menolak untuk 
+            dibungkam. Api dan energi magis yang muncul setiap kali emosinya meledak membuat banyak orang semakin yakin bahwa dirinya adalah 
+            ancaman. Namun, di balik stigma itu, Caelen melihat harapan—bahwa kekuatan tersebut adalah kunci untuk menemukan jati dirinya di 
+            luar bayangan keluarga.Caelen Veyrion berangkat bukan untuk keluarga, bukan untuk kerajaan, dan bukan untuk membuktikan apa pun 
+            kepada orang lain. Ia melangkah ke dunia luas karena satu alasan: dirinya sendiri. Api dalam darahnya adalah misteri yang hanya 
+            bisa ia pecahkan dengan menjalaninya, bukan dengan sembunyi di balik tembok istana. Ia ingin menguasai sihir yang membara di 
+            nadinya, bukan sekadar untuk bertahan, tetapi agar ia tidak lagi menjadi budak kekuatannya sendiri. Perjalanannya adalah tentang 
+            menemukan arti dari siapa dirinya sebenarnya—apakah ia hanya seorang pewaris yang terkutuk, ataukah ia bisa menempa dirinya 
+            menjadi sesuatu yang lebih besar dari sekadar nama Veyrion.
+
+Device: PC
+Nama : Dru Dri Dam
+Race & Class: Halfling/Rogue
+Origin: Lembara
+Background: Seorang Criminal dari Lembara. Di tinggal orang tua semenjak kecil, lalu di asuh oleh criminal pasar. Hingga suatu hari di 
+            tangkap oleh organisasi yang lebih besar. Organisasi ternyata tertarik dengan Dru Dri Dam, sehingga di recruit tapi untuk 
+            sekarang di beri tugas untuk jadi warga biasa saja.

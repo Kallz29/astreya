@@ -1,0 +1,63 @@
+4 CHARACTER
+
+
+
+Device: PC
+Nama : Arden Elri
+Race & Class:  Human/Warlock
+Origin: Nalarra
+Background: Arden Elri seorang human, memiliki rambut hitam sedikit kebiruan dan juga paras mata yang biru. Dia merupakan seorang yatim piatu 
+            yang berasal dari wilayah NALARRA. Arden bukanlah nama aslinya nama asilnya Adalah Ridji, awalnya dirinya merupakan awak kapal 
+            dari bajak laut Black Orca, dia bergabung dengan bajak laut itu ketika berumur 10 tahun, dikarenakan dirinya juga merupakan 
+            yatim-piatu, dia berpikir harus bertahan hidup bagaimanapun. Hingga suatu saat dirinya dibuang oleh sang kapten karena merusak 
+            barang berharga nya, dirinya dicampakan di tengah laut dengan luka tusuk yang berada di perut nya, di ambang kematian nya, 
+            terdengar sebuah suara yang berkata “Belum saat nya engkau mati” Dia terbangun sudah berada di pesisir daratan, dan dirinya 
+            ditemukan oleh keluarga Elri yang merupakan seorang pedagang dari wilayah lembara, mereka merawat Ridji dengan baik, hingga 
+            menawarkan ridji untuk diadopsi mereka, mendegarkan kesempatan hidup lebih baik dirinyapun menerima tawaran itu dan juga dia 
+            mengganti nama dari ridji menjadi Arden Elri. Suatu malam dirInya bermimpi bahwasanya ASTREYA mengalami bencana yang sangat besar 
+            dimana-mana dan seketika ada seseorang dengan wujud keliatansamar berkata “WAKTUNYA TINGGAL SEDIKIT LAGI”.
+
+
+Device: PC
+Nama : Arno Drakthuun 
+Race & Class: Goliath/Warlock
+Origin: Nallara
+Background: Arno Drakthuun lahir di Tribe Hastarii, salah satu suku goliath nelayan di Kepulauan Badai, Nalarra, yang hidup dari berburu ikan 
+            raksasa dan monster laut di kedalaman. Di antara Hastarii, kekuatan fisik adalah segalanya, dan hanya mereka yang menaklukkan 
+            Imorrath — ritual kedewasaan suku — yang diakui sebagai anggota penuh. Arno, bertubuh lebih kecil dan lemah dari kebanyakan 
+            goliath, selalu diragukan kemampuannya. Kakaknya, Torkan, menjadi kebanggaan keluarga setelah menangkap seekor Imoogi legendaris, 
+            simbol kehormatan bagi Hastarii. Untuk membuktikan dirinya layak, Arno berlayar sendirian menuju Palung di ujung kepulauan 
+            Nalarra, tempat para pemburu percaya Imoogi terbesar bersemayam. Namun, saat melawan makhluk raksasa yang tersangkut di kailnya, 
+            Arno terseret ke kedalaman dan hampir mati tenggelam… sampai mata emas raksasa muncul dalam kegelapan dan bisikan purba menjawab 
+            panggilannya. Saat ia terbangun, seekor Imoogi kecil ada di sisinya — cukup untuk membuatnya lulus dalam Imorrath dan pulang 
+            sebagai “pahlawan.” Sejak hari itu, Arno dihantui mimpi-mimpi aneh dan bisikan misterius: ombak hitam, bayangan raksasa, 
+            dan suara yang memintanya meninggalkan pulau, mencari orang-orang tertentu, dan menjalankan tugas besar yang belum ia pahami. 
+            Ketika ia menemui Shaman Veyraka, sang shaman menemukan tanda spiral samar di lengannya dan memperingatkan bahwa kekuatan ini 
+            bukan berasal dari dewa laut yang biasa orang-orang Kepulauan Nalarra ikuti. Tak mendapat jawaban, Arno memutuskan meninggalkan 
+            Hastarii dan berlayar keluar, menyembunyikan kekuatan barunya sementara ia mencari kebenaran tentang siapa yang memanggilnya, 
+            apa arti dari mimpi, siapa orang-orang yang dimaksud, misi dan tugas apa, dan kenapa dia. 
+    
+Device: PC
+Name: Jeyvand
+Race & Class: Human/Cleric
+Origin : Nallara
+Background :    Jayvand seorang petugas medis d kapal Joy Sail, dia bekerja sebagai combat medic di atas kapal dan ikut pertempuran di laut, 
+                dia sebenar nya bukan orang yang suka kekerasan tetapi dia lahir di tempat dimana dia di tuntut untuk melakukan itu, ibu nya 
+                seorang pelacur, dan ayah nya seorang perompak yang tidak pernah dia temui,sehabis lahir dia dibesarkan oleh para cleric di 
+                kuil dewa laut, masa kecil nya dia banyak belajar tentang kebaikan dewwa laut, dan dia percaya bahwa tidak semua masalah harus
+                di selesaikan dengan pertumpahan darah, walau dia bekerja sebagai perompak karena tuntutan lingkungan, dia adalah orang yang 
+                taat beribadah, dan taat kepada aturan di mana dia berada, (lawful good), tapi dibalik kebaikan diri nya dia akan tetap 
+                mengayunkan senjata nya jika diperlukan.
+
+Device : PC
+Name : Maggoso
+Race & Class : Dwarf/Monk
+Origin : Nalarra
+Backstory : Maggoso merupakan seseorang yang kehilangan jati dirinya, dan dia tidak mengingat apapun tentang kehidupannya di masa lalu. 
+            Ada sebuah kejadian yang membuatnya dijadikan bawahan dari orang2 yang berada di wilayah nalarra. yang pada akhirnya dia 
+            tidak bisa berbuat apa-apa sehingga terpaksa untuk mengikuti apa yang mereka perintahkan. singkat cerita, dia disuruh 
+            oleh kapten balam untuk pergi ke wilayah pasvara guna memantau keadaan daerah tersebut. Dan pada akhirnya, maggoso memilih 
+            jalannya untuk menjadi monk di kuil pasvara. namun maggoso telah terikat janji dengan kapten balam dengan tanda tatto berwarna 
+            hitam di  dahinya, bahwa ia harus melaporkan keadaan dari dirinya sendiri, dan keadaan dari daerah pasvara jika diminta. untuk 
+            setiap kebohongannya ke kapten balam maka ganjarannya adalah salah satu anggota tubuhnya akan otomatis hilang atau terpotong. 
+            jadi maggoso menjalani kehidupan sebagai monk dibawah kendali dari kapten balam

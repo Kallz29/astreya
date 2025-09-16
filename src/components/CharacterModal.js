@@ -29,13 +29,17 @@ const CharacterModal = ({ character, onClose }) => {
           <strong>Description:</strong> {character.description}
         </p>
 
-        {/* ✅ Gambar region sesuai origin */}
         {regionImages[character.origin] && (
-          <img
-            src={regionImages[character.origin]}
-            alt={character.origin}
-            className="region-logo-img"
-          />
+          <div className="region-card">
+            <div className="region-frame">
+              <img
+                src={regionImages[character.origin]}
+                alt={character.origin}
+                className="region-logo-img"
+              />
+            </div>
+
+          </div>
         )}
       </div>
     </div>

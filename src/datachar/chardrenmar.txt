@@ -1,0 +1,74 @@
+5 CHARACTER
+
+
+
+Device: PC
+Nama: Gai'ro
+Race & Class: Goliath/Cleric
+Origin: Drenmar
+Backstory:  Gai'ro adalah Goliath tersesat yang diselamatkan oleh suku lirien dan dibawa ke Drenmar, disana dia diperlakukan dengan baik dan 
+            membuat dirinya menemukan arti hidup. Demi membalas budi, Gai'ro menjadi penjaga hutan Drenmar dan juga menyembuhkan mereka 
+            yang terluka dengan sihir penyembuhnya. Suatu hari saat sedang berdoa kepada pohon cahaya, dia diberi tugas oleh pemimpin suku 
+            untuk menjalakan tugas mulia dengan membantu semua makhluk di luar Drenmar atas nama pohon suci untuk menunjukkan kepantasan dia 
+            untuk menjadi salah satu penjaga mulia Drenmarss
+
+
+Device: PC
+​Nama: Sagara
+Race & Class: Wood Elf/Druid
+Origin : Drenmar
+Backstory : ​Sagara berasal dari Drenmar, sebuah hutan kuno yang lebat dan misterius, rumah bagi Suku Lirien. Sebagai seorang Elf, 
+            hidupnya sejak awal terikat erat dengan alam. Suku Lirien adalah pemuja "Pohon Cahaya", pusat spiritual dan magis dari 
+            hutan mereka, dan mereka bertugas untuk menjaga tradisi kuno, artefak, dan keseimbangan alam yang ada di dalamnya.
+            ​Tidak seperti Druid pada umumnya yang hanya mendalami alam, Sagara dibesarkan dalam disiplin seorang prajurit. Ia adalah bagian 
+            dari "Warden", sebuah ordo pelindung Drenmar. Tugasnya adalah berpatroli di perbatasan hutan, melindungi Kayu Suci dari para 
+            penyusup, dan memastikan tidak ada yang mengganggu kedamaian Drenmar. Latihan ini memberinya kemahiran menggunakan berbagai jenis 
+            senjata dan baju zirah yang tidak biasa bagi seorang Druid pada umumnya. Baginya, melindungi alam bukan hanya soal harmoni, tetapi 
+            juga soal pertahanan aktif. ​Kepribadian Sagara terbentuk dari dua dunia ini. Di satu sisi, ia adalah seorang prajurit yang 
+            disiplin dan bisa menjadi sangat serius ketika menghadapi ancaman terhadap alam atau orang yang ia lindungi. Di sisi lain, 
+            karena hidupnya yang terisolasi di Drenmar, ia sering kali tidak mengerti norma dan situasi sosial di dunia luar. Inilah yang 
+            membuatnya tampak "random"—ia bisa saja melontarkan lelucon datar di tengah situasi tegang atau justru terdiam bingung ketika 
+            orang lain membicarakan hal-hal seperti uang atau politik kerajaan. Sifatnya yang sulit ditebak ini seringkali membuat 
+            rekan-rekannya bingung, namun di balik itu terdapat niat yang tulus.
+
+Device: PC
+Nama : Kaevn Hartbrew
+Race & Class: Human/Monk
+Origin: Drenmar
+Background: Kaevn adalah mantan bangsawan yang, alih-alih bertarung memperebutkan kekuasaan, memilih menanggalkan statusnya dan hidup 
+            sederhana di biara terpencil di dataran tinggi Drenmar. Di sana ia menata batinnya lewat meditasi dan secangkir kopi setiap pagi. 
+            Namun, suatu hari ada yang berubah dalam rutinitas itu. Kopi yang biasanya menenangkan terasa ganjil: pahitnya lebih menusuk, rasa 
+            tanahnya berbeda, seolah akar kopi menyerap sesuatu yang asing dari bumi. Air pegunungan yang ia gunakan pun terasa lebih berat di 
+            lidah, seakan ada lapisan tak kasat mata yang meresap di dalamnya.Dalam meditasinya Kaevn mulai menyadari aliran ki para monk dan 
+            warga sekitar menjadi tak beraturan. Ada yang deras tapi kacau, ada pula yang kering seakan terputus dari sumbernya. Harmoni 
+            yang biasanya ia rasakan dari napas dan denyut kehidupan perlahan berubah menjadi riak-riak penuh kegelisahan.Dari secangkir kopi 
+            yang pahit, Kaevn menyadari sesuatu jauh lebih besar tengah merayap: Malapetaka. Tanah seakan membawa mineral asing, air dan udara 
+            memekat, dan hewan-hewan liar gelisah. Kaevn pun ditugaskan monastery untuk menginvestigasi fenomena ini. Karena jika dugaannya 
+            benar, perjalanan ini akan lebih dari sekedar rasa kopi yang berubah. Dengan membawa sekantung kecil kopi, sebuah quarterstaff, 
+            dan lelucon receh bapak-bapak, Kaevn memilih meninggalkan biara untuk menelusuri jejak kegelapan ini
+
+Device: PC
+Nama : Xyronoa Brooba
+Race & Class: Elf/Druid
+Origin: Drenmar
+Background: Saya lahir di sebuah desa kecil di perbatasan Drenmar–Shirana, namun sejak kecil sudah kehilangan orang tua saat desa kami 
+            diserang. Tidak ada yang tahu apakah mereka meninggal atau masih hidup, dan pertanyaan itu selalu membekas di hati saya. 
+            Setelah kejadian itu, seorang druid tua menemukanku dan merawatku seperti anak sendiri. Dari beliaulah saya belajar memahami 
+            bahasa alam, menjaga keseimbangan hutan, serta menolong orang-orang yang tersesat di rimba perbatasan.Bertahun-tahun saya hidup 
+            dengan tenang, hingga suatu hari saya menuntun seorang wanita muda yang tersesat di tengah kabut hutan. Saat itu, untuk pertama 
+            kalinya saya merasakan cinta—sebuah perasaan asing yang menggetarkan hati. Sejak hari itu, saya menyadari bahwa dunia luar 
+            menyimpan pengalaman dan jawaban yang tidak akan saya temukan jika tetap tinggal di hutan.Dengan bekal ajaran sang druid dan 
+            ekad yang kuat, saya meninggalkan hutan perbatasan. Saya ingin mencari kebenaran tentang orang tua saya sekaligus memahami arti 
+            dari rasa baru yang membuka jalan hidup saya.
+
+Device: PC
+Nama : Lyra Thornwood
+Race & Class: Elf/Druid
+Origin: Drenmar
+Background: Lyra lahir di hutan purba Drenmar, di bawah bimbingan Elaria Cahyarimbun, sang druid legendaris yang menjaga keseimbangan alam.
+            Sejak kecil, ia mampu merasakan denyut “urat sihir” di tanah dan pohon, seolah-olah bumi bernafas melalui dirinya. Namun, 
+            ketika Malapetaka mulai merayap ke timur, Lyra menyaksikan banyak hutan kecil di perbatasan Drenmar layu dalam semalam.Elaria 
+            mengajarinya bahwa ada saatnya “penjaga baru” harus meninggalkan hutan untuk menjaga keseimbangan dunia yang lebih luas. 
+            Dengan restu gurunya, Lyra meninggalkan Drenmar, membawa sepotong cabang bercahaya dari Pohon Cahyarimbun sebagai tanda sumpahnya.
+            Namun, bisikan yang ia dengar dari akar bumi semakin mengganggunya: suara samar itu menyebut nama Lembara, seolah pusat dari semua 
+            kerusakan berasal dari sana.

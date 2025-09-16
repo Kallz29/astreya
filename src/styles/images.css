@@ -1,3 +1,46 @@
+/* === Region Card (untuk modal) === */
+.region-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+/* Frame logo */
+.region-frame {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 400px;  /* biar nggak terlalu besar */
+  width: 100%;
+}
+
+.region-logo-img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: contain;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.7);
+  border: 3px solid var(--color-secondary);
+}
+
+
+/* Banner nama map */
+.region-banner {
+  margin-top: -30px; /* biar nempel ke bawah gambar */
+  background: #111;
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 8px 20px;
+  border-radius: 6px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.6);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+
 .cover-image, 
 .map-image {
   max-width: 100%;
@@ -192,3 +235,4 @@
     grid-template-columns: repeat(4, 1fr);
   }
 }
+

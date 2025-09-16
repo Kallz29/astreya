@@ -1,0 +1,55 @@
+4 CHARACTER
+
+
+
+Nama: Sena
+Race & Class: Halfling/Monk
+Origin: Hijrana
+Backstory:
+ Sena adalah seorang Halfling Monk dari Hijrana. Ia tinggal bersama kakak perempuannya Nirmala, kedua orang tuanya menghilang saat Sena 
+ masih kecil. Rumor mengatakan kedua orang tuanya hilang karena sihir jahat yang pernah menyerang. Kesehariaannya selain berlatih ilmu 
+ beladiri dan tenaga dalam, ia juga menemani dan membantu kakaknya untuk mencari herbal di rawa. Sena adalah adik yang kuat, ambisius, 
+ baik hati tetapi juga tidak banyak bicara (hal ini termasuk cara latihannya melatih tenaga dalam). Namun terkadang ia juga ceroboh karena 
+ rasa keingintahuannya sendiri. Ia berteman dengan banyak hewan di rawa.Tekad Sena adalah untuk bertambah kuat demi melindungi Kakaknya 
+ dan penduduk Hijrana dari ancaman bahaya yang mungkin saja bisa terjadi. Dan ia ingin tahu kemana sebenarnya kedua orang tuanya menghilang. 
+ Sena dan teman2nya kerap kali menerima misi dari Raja Bhaskara dan mereka seringkali menyelesaikannya dengan baik. Di dalam diri Sena ada 
+ sedikit keyakinan bahwa ancaman sihir jahat akan datang cepat atau lambat, jadi dia harus selalu siap dan berlatih.
+
+Device: PC
+Nama : yosha
+Race & Class: Human/Monk
+Origin: Hijrana
+Background: Yosha adalah seorang murid di clan yang menganut kepercayaan light lotus yang berada di pegunungan hijrana yang dekat dengan 
+            danau. Dalam clan tersebut lebih banyak menghasilkan cleric dan paladin. Yosha memiliki tubuh yang kuat dan dia berkeinginan 
+            untuk menjadi paladin, akan tetapi dia tidak memiliki visi tentang berpedang dan jika dia memilih cleric, dia masih rata-rata 
+            kebawah pengunaan spel. Tapi suatu ketika saat yosha pergi ke perpustakaan untuk meningkatkan skillnya, dia tidak sengaja 
+            menemukan buku yang lusuh yaitu tentang penguasan monk dan mulai membacanya. karena saat ini di clan, yosha tidak pernah melihat 
+            tetua yang menggunakan monk. Saat membaca, tiba-tiba ada penyerangan dan penjaga perpustakaan memberitahu kita untuk lari. Yosha 
+            tanpa sadar kabur ke hutan dan membawa bukunya. Saat dia kembali, clan sudah hancur lebur..yang akhirnya yosha terpaksa berkelana 
+            dan berlatih dalam hutan yang hanya berbekal buku dan barang sisa-sisa clan yang ditemukannya
+
+Device: PC
+Nama : Thimble 
+Race & Class: Halfling/Monk
+Origin: Hijrana
+Background: Thimble lahir di desa kecil di tengah daerah berawa di Wilayah Hijrana. Desa itu dihuni oleh ras halfling yang tidak terlalu 
+            banyak dengan sebagian besar dari mereka bekerja sebagai pengumpul herbal. Ia dibesarkan di sebuah gubuk herbal oleh neneknya seorang diri. 
+            Dari kecil, Thimble telah belajar cara mengumpulkan dan meracik obat sederhana. Seiring bertambahnya usia, neneknya mulai terlalu lemah untuk 
+            mengelola gubuk hingga akhirnya Thimble diwariskan gubuk tersebut dan mengambil alih pekerjaan sehari-hari.Sehari hari, Thimble terus berlatih 
+            kemampuan meracik sekaligus kemampuan tubuhnya seorang diri. Meski begitu, Thimble masih sering meminta nasihat neneknya, menjadikan tabib di 
+            desa tersebut. Namun waktu tak bisa ia hentikan. Neneknya jatuh sakit, semua ramuan dan latihan bertahun-tahun yang telah ia pelajari tak mampu 
+            menyelamatkan satu-satunya keluarga yang ia miliki. Kehilangan itu membuat Thimble sadar bahwa ilmunya masih terlalu sempit.Dengan berat hati, 
+            ia menutup sementara gubuk peninggalan neneknya dan berangkat ke Lembara dimana pusat peradaban berada. Ia berharap dapat menemukan pengetahuan 
+            herbal, seni tubuh, dan penyembuhan baru di kota penuh informasi ini. Thimble bertekad untuk suatu hari dapat membuka kembali gubuk itu dengan 
+            pemahaman yang lebih matang agar kegagalan pahit yang menimpa neneknya tak lagi terulang. 
+
+Device: PC
+Nama : Eryth Fugax
+Race & Class: Halfling/rogue
+Origin: Hijrana
+Background: Seorang pemuda pengumpul herbal, metode pengumpulan dan pengetahuan herbal dipelajari dari orang tuanya. Eryth menyukai 
+            serangga, jadi sembari mengumpulkan herbal rawa, ia sering mengamati serangga. Setiap serangga ia tulis dan sketsa 
+            dalam sebuah buku kecil, jurnal serangga miliknya. Rutinitasnya mengamati serangga, membuatnya memiliki kemampuan untuk 
+            mengendap-endap dan bergerak dengan pelan. Hal ini agar ia bisa mengamati serangga dari dekat dan membuat sketsanya. Ia merasa, 
+            mungkin semua serangga di sekitar wilayah pengumpulan herbalnya sudah ia buat sketsanya. Ia pun berpikir untuk berpetualang dan 
+            mengumpulkan pengetahuan tentang serangga dari setiap penjuru wilayah
